@@ -10,6 +10,8 @@
 ## kop
  dit is *schuin*
 
+![Plaatje](Plaatje.png)
+
  Maar dit is **Dik**
 
  ## Kop
@@ -21,10 +23,11 @@
  //code
 ```
 
-```cs
+``` cs
 // Een simpele code lijn
 Console.WriteLine("Hello, World!");
 ```
+
 
 
 
